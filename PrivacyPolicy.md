@@ -1,7 +1,7 @@
 # Privacy Policy del Bestemmiometro
 Ultimo aggiornamento: 24/06/2023
 
-[Versione in inglese/english version](https://gist.github.com/AntogamerYT/fa2ac4b586d55e218e4cc645619d52e7)
+[Versione in inglese/english version](https://github.com/Bestemmiometro/legal/blob/main/PrivacyPolicy-English.md)
 
 *Con "noi" ci riferiamo al team di sviluppo del Bestemmiometro e ad eventuali collaboratori*
 *Con "i nostri servizi" ci riferiamo al Bestemmiometro*

@@ -2,7 +2,7 @@
 
 Ultimo aggiornamento: 18/05/2023
 
-You can find the english version [here](https://gist.github.com/AntogamerYT/2b0d130360759eb9d19870447a247209)/Puoi trovare la versione in inglese [qui](https://gist.github.com/AntogamerYT/2b0d130360759eb9d19870447a247209)
+You can find the english version [here](https://github.com/Bestemmiometro/legal/blob/main/ToS-English.md)/Puoi trovare la versione in inglese [qui](https://github.com/Bestemmiometro/legal/blob/main/ToS-English.md)
 
 *Con "i nostri servizi" ci riferiamo al Bestemmiometro*
 
