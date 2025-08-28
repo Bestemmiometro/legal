@@ -1,8 +1,8 @@
 # Privacy Policy of Bestemmiometro
-Last Updated: 24/06/2023
+Last Updated: 28/08/2025
 
 *With "us" we refer to Bestemmiometro's developer team and collaborators*
-*With "our services" we refer to Bestemmiometro*
+*With "our services" we refer to Bestemmiometro, to its Dashboard and to its API*
 
 # What data do we keep?
 Our data comes from Discord and includes user IDs/server IDs, custom swears and other data like a server's swears number or the settings.

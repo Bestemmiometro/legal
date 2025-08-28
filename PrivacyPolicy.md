@@ -1,10 +1,10 @@
 # Privacy Policy del Bestemmiometro
-Ultimo aggiornamento: 24/06/2023
+[English Version/Versione in inglese](https://github.com/Bestemmiometro/legal/blob/main/PrivacyPolicy-English.md)
 
-[Versione in inglese/english version](https://github.com/Bestemmiometro/legal/blob/main/PrivacyPolicy-English.md)
+Ultimo aggiornamento: 28/08/2025
 
 *Con "noi" ci riferiamo al team di sviluppo del Bestemmiometro e ad eventuali collaboratori*
-*Con "i nostri servizi" ci riferiamo al Bestemmiometro*
+*Con "i nostri servizi" ci riferiamo al Bestemmiometro, alla sua Dashboard e alla sua API*
 
 # Quali dati conserviamo?
 I nostri dati arrivano da Discord e possono includere ID utenti/ID server, bestemmie custom e altri dati come il numero di bestemmie di un server o delle impostazioni.

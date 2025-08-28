@@ -1,10 +1,10 @@
 # Termini di Servizio Bestemmiometro
+[English version / Versione in inglese](https://github.com/Bestemmiometro/legal/blob/main/ToS-English.md)
 
-Ultimo aggiornamento: 18/05/2023
+Ultimo aggiornamento: 28/08/2025
 
-You can find the english version [here](https://github.com/Bestemmiometro/legal/blob/main/ToS-English.md)/Puoi trovare la versione in inglese [qui](https://github.com/Bestemmiometro/legal/blob/main/ToS-English.md)
-
-*Con "i nostri servizi" ci riferiamo al Bestemmiometro*
+*Con "noi" ci riferiamo al team di sviluppo del Bestemmiometro e ad eventuali collaboratori*
+*Con "i nostri servizi" ci riferiamo al Bestemmiometro, alla sua Dashboard e alla sua API*
 
 ## Per utilizzare i nostri servizi dovresti:
 - Seguire i [Termini di Servizio](https://dis.gd/tos) e [le linee guida per le community](https://dis.gd/guidelines) di Discord.
@@ -15,5 +15,6 @@ You can find the english version [here](https://github.com/Bestemmiometro/legal/
 - Utilizzarli per scopi illegali;
 - Spammarli per aumentare il carico del server, portando quindi eventuali rallentamenti
 - Creare server solo per salire di grado nella classifica
+- Utilizzare la API della Dashboard in qualsiasi contesto e per qualsiasi scopo al di fuori del sito della Dashboard. Solo la Dashboard stessa può inviare richieste alla API.
 
-*Violando questi termini verrai bannato dal bot e dal server di supporto.*
+*Violando questi termini verrai bandito dal bot e dal server di supporto.*
