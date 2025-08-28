@@ -1,6 +1,6 @@
 # Terms of Service of Bestemmiometro
 
-Last updated: 25/08/2025
+Last updated: 28/08/2025
 
 *With "us" we refer to Bestemmiometro's developer team and collaborators*
 *With "our services" we refer to Bestemmiometro, to its Dashboard and to its API*

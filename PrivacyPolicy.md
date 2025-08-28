@@ -1,7 +1,7 @@
 # Privacy Policy del Bestemmiometro
 [English Version/Versione in inglese](https://github.com/Bestemmiometro/legal/blob/main/PrivacyPolicy-English.md)
 
-Ultimo aggiornamento: 25/08/2025
+Ultimo aggiornamento: 28/08/2025
 
 *Con "noi" ci riferiamo al team di sviluppo del Bestemmiometro e ad eventuali collaboratori*
 *Con "i nostri servizi" ci riferiamo al Bestemmiometro, alla sua Dashboard e alla sua API*

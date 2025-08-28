@@ -1,5 +1,5 @@
 # Privacy Policy of Bestemmiometro
-Last Updated: 25/08/2025
+Last Updated: 28/08/2025
 
 *With "us" we refer to Bestemmiometro's developer team and collaborators*
 *With "our services" we refer to Bestemmiometro, to its Dashboard and to its API*
